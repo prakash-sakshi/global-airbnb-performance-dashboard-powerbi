@@ -74,7 +74,7 @@ This dashboard provides insights into Airbnb's global performance by analyzing:
 
 ## Acknowledgements
 
-This dashboard was built as part of a Power BI learning project inspired by the Maven Analytics Airbnb dataset and the excellent Power BI tutorial by Mansee Goyal. While following the project, I independently debugged and resolved DAX filter context issues, strengthening my understanding of cumulative calculations and Power BI data modeling.
+This dashboard was built as part of a Power BI learning project inspired by the Maven Analytics Airbnb dataset and the excellent Power BI tutorial by Mansi Goel. While following the project, I independently debugged and resolved DAX filter context issues, strengthening my understanding of cumulative calculations and Power BI data modeling.
 
 ---
 
