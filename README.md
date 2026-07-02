@@ -2,22 +2,6 @@
 
 An interactive Power BI dashboard analyzing Airbnb listings, hosts, reviews, ratings, pricing, and customer behavior across major cities using the Maven Analytics Airbnb dataset.
 
-## 📊 Dashboard Preview
-
-### Overview
-![Overview](Images/Overview.png)
-
-### Ratings
-![Ratings](Images/Ratings%201.png)
-
-### Detailed Ratings
-![Detailed Ratings](Images/Ratings%202.png)
-
-### Reviews
-![Reviews](Images/Reviews.png)
-
----
-
 ## 📂 Dataset
 
 The dataset used in this project is provided by **Maven Analytics**.
